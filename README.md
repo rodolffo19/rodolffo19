@@ -1,9 +1,5 @@
-Olá, eu sou o Rodolfo,
-tenho 19 anos,
-tenho 1,76 de altura,
-sou aluno de TI da escola EETEPA,
-gosto de jogar jogos online,
-sou pro player no free fire!
+Olá, eu sou o Rodolfo,tenho 19 anos
+sou aluno de TI da escola EETEPA
 tenho interesse em trabalhar na área da tecnologia,
 também tenho interesse em aprender línguas estrangeiras,
 quero ser um bom profissional no futuro e ganhar muito dinheiro!
